@@ -1,4 +1,4 @@
-Android Project Template
+Android Project Template [![Build Status](https://travis-ci.org/orogersilva/template-android.svg?branch=master)](https://travis-ci.org/orogersilva/template-android)
 ========
 
 Template for app Android project.
